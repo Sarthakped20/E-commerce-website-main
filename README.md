@@ -1,4 +1,5 @@
 Project: Instant Grocery Website
+
 Description
 The Instant Grocery Website is a user-friendly online platform designed for a local grocery shop, enabling customers to browse and purchase groceries with ease. The website provides an intuitive interface for customers to view products, add them to a cart, and checkout seamlessly. Built using HTML, CSS, and JavaScript, the website focuses on speed, simplicity, and convenience for both the shop owner and the end-user.
 
